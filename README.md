@@ -1,6 +1,10 @@
 # simple-shell-in-go
 SIMPLE SHELL IN GO
 
+```
+go run main.go
+```
+
 Here are brief descriptions of the new commands:
 
 # date: Prints the current date and time.
